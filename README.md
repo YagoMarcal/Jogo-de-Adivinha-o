@@ -22,8 +22,11 @@ Praticar a lógica de programação e os fundamentos da linguagem C: variáveis,
 
 ## 🛠️ Tecnologias utilizadas
 
-
-- Biblioteca padrão: `stdio.h`, `stdlib.h`, `time.h` [ajuste conforme seus `#include`]
+<div data-importer="techs" align="center"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
+</div>
+<br>
+- Biblioteca padrão: stdio.h, stdlib.h, time.h [ajuste conforme seus #include]
 
 ##  Estrutura do projeto
 
